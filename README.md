@@ -1,1 +1,1 @@
-<img src="Leafid.png" alt="LEAFID" width="50%">
+<img src="LeafID.png" alt="LEAFID" width="50%">
