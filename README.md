@@ -93,39 +93,12 @@ Alternatively, you can view the video directly below:
 
 The backend of the "LeafID" system utilizes a pretrained machine learning model for real-time classification of leaf types using a webcam. It focuses on identifying **Hibiscus** and **Guava** leaves.
 
-### Key Features:
-- **Leaf Detection**: Uses OpenCV to capture and process the webcam feed.
-- **Contour Detection**: Isolates the largest contour, assumed to be the leaf.
-- **Pretrained Model**: Trained with **Teachable Machine** for Hibiscus and Guava leaf classification.
-- **Real-Time Prediction**: Displays the classified leaf type with a confidence score.
 
-### Process:
-1. Capture the webcam feed.
-2. Process and isolate the leaf using color filtering and contour detection.
-3. Classify the leaf using the pretrained model.
-4. Display the classification result on the video feed.
 
-### Libraries and Tools Used:
-- **OpenCV** for image processing.
-- **cvzone** for model classification.
-- **Teachable Machine** for the custom model.
 
-### Interactive Video Demonstration:
 
-Click the button below to watch the backend in action:
 
-<a href="PlantID.mp4" target="_blank">
-  <button style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; font-size:16px; border:none; cursor:pointer; border-radius:8px; margin: 10px 0;">
-    Watch the Backend in Action
-  </button>
-</a>
 
-Alternatively, you can view the video directly below:
-
-<video width="100%" controls>
-  <source src="PlantID.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
