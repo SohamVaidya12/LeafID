@@ -72,9 +72,9 @@ The backend of the "LeafID" system utilizes a pretrained machine learning model 
 - **cvzone** for model classification.
 - **Teachable Machine** for the custom model.
 
----
 
-## Interactive Video Demonstration:
+
+### Interactive Video Demonstration:
 
 Click the button below to watch the backend in action:
 
