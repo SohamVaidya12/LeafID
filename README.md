@@ -87,6 +87,8 @@ Alternatively, you can view the video directly below:
   Your browser does not support the video tag.
 </video>
 
+---
+
 ## Frontend: Gradio Interface for LeafID
 
 The **LeafID** frontend uses **Gradio** to create an intuitive user interface for leaf classification. Users can upload leaf images to be classified as either **Hibiscus** or **Guava**. The interface also allows users to download a detailed PDF report for each classification.
