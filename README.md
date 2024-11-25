@@ -111,7 +111,11 @@ The **LeafID** frontend uses **Gradio** to create an intuitive user interface fo
    - Confidence score
    - Description
    - The report can be downloaded for further analysis.
-
+     
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="Frontend_img1.png" alt="frontend Diagram 1" width="35%">
+  <img src="frontend_img2.png" alt="Architecture Diagram 2" width="40%">
+</div>
 
 
 ---
