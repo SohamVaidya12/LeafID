@@ -89,9 +89,7 @@ Alternatively, you can view the video directly below:
   <source src="PlantID.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
- Backend Overview
-
-The backend of the "LeafID" system utilizes a pretrained machine learning model for real-time classification of leaf types using a webcam. It focuses on identifying **Hibiscus** and **Guava** leaves.
+ 
 
 
 
