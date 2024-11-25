@@ -74,12 +74,11 @@ The backend of the "LeafID" system utilizes a pretrained machine learning model 
 - **Teachable Machine** for the custom model.
 
 ### Interactive Video Demonstration:
-
 Click the button below to watch the backend in action:
 
 <a href="PlantID.mp4" target="_blank">
-  <button style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; font-size:16px; border:none; cursor:pointer; border-radius:8px; margin: 10px 0;">
-    Watch the Backend in Action
+  <button style="background-color:#FF6347; color:white; padding:15px 32px; text-align:center; font-size:16px; border:none; cursor:pointer; border-radius:8px; margin: 10px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">
+    🎥 Watch the Backend in Action
   </button>
 </a>
 
@@ -89,6 +88,7 @@ Alternatively, you can view the video directly below:
   <source src="PlantID.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
  
 
 
