@@ -115,7 +115,9 @@ The **LeafID** frontend uses **Gradio** to create an intuitive user interface fo
 <div style="display: flex; justify-content: space-around; align-items: center;">
  
   <img src="f1.png"  width="70%">
-</div>
+</div> 
+
+
 <div style="display: flex; justify-content: space-around; align-items: center;">
  
   <img src="frontend_img2.png"  width="70%">
