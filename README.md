@@ -87,6 +87,35 @@ Alternatively, you can view the video directly below:
   Your browser does not support the video tag.
 </video>
 
+## 🎥 User Interface Flow
+
+1. **Upload Leaf Image**  
+   Users upload an image of a leaf (e.g., Hibiscus or Guava).
+   - The uploaded image is processed by OpenCV and the pre-trained model.
+
+2. **Leaf Classification**  
+   The uploaded image is processed for **leaf detection**, and classification is performed using the pre-trained model.
+   - **Leaf Type**: Either **Hibiscus leaf** or **Guava leaf**.
+   - **Confidence (%)**: The confidence of the classification result.
+   - **Description**: A brief description of the classified leaf.
+
+3. **Download PDF Report**  
+   A PDF report is generated, summarizing:
+   - Leaf type
+   - Confidence score
+   - Description
+   - The report can be downloaded for further analysis.
+### 📸 Frontend Interface Screenshots
+
+**Frontend Image 1**  
+![Frontend_img1.png](Frontend_img1.png)
+
+**Frontend Image 2**  
+![Frontend_img2.png](Frontend_img2.png)
+
+
+
+---
 
 
  
