@@ -2,6 +2,8 @@
   <img src="Leafid12.jpg" alt="LEAFID" width="40%">
 </div>
 
+<div style="background-color: #e8f5e9; padding: 20px; border-radius: 8px;">
+
 # LeafID: ML-Based Leaf Identification System  
 
 **LeafID** is a robust and interactive system designed to classify leaves in real-time using a pre-trained machine learning model. It provides accurate identification of leaf types while supporting live webcam feed processing and PDF report generation.
