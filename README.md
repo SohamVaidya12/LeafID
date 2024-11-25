@@ -76,9 +76,9 @@ The backend of the "LeafID" system utilizes a pretrained machine learning model 
 
 ### Interactive Video Demonstration:
 
-Click the button below to watch the backend in action 🎥:
+Click the button below to watch the backend in action :
 
-[Watch the Backend in Action](PlantID.mp4)
+[Watch the Backend in Action](PlantID.mp4)🎥
 
 Alternatively, you can view the video directly below:
 
