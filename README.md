@@ -91,9 +91,7 @@ Alternatively, you can view the video directly below:
 
 The **LeafID** frontend uses **Gradio** to create an intuitive user interface for leaf classification. Users can upload leaf images to be classified as either **Hibiscus** or **Guava**. The interface also allows users to download a detailed PDF report for each classification.
 
----
-
-## 🎥 User Interface Flow
+### 🎥 User Interface Flow
 
 1. **Upload Leaf Image**  
    Users upload an image of a leaf (e.g., Hibiscus or Guava).
